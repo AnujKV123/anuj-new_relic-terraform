@@ -6,7 +6,11 @@ account_id = 3931806
 
 policy_name = "Anuj alert policy"
 
+runbook_url = null
+
 incident_preference = "PER_POLICY"
+
+channel_ids = null
 
 apdex_warning_threshold = 1
 
